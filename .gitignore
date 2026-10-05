@@ -1,0 +1,16 @@
+.DS_Store
+.agents/
+
+# KiCad local settings and caches
+*.kicad_prl
+fp-info-cache
+
+# KiCad locks, autosaves, and backups
+~*.lck
+_autosave-*
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# KiCad local history
+.history/
